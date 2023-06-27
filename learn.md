@@ -9,3 +9,19 @@ git add --all 把工作区的改动提交
 git commit 提交缓存区到本地分支 
 
 git commit -m "first commit"
+
+
+
+git diff 查看尚未缓存的改动
+
+git diff --cached 查看已缓存的改动
+
+git HEAD查看所有差别
+
+
+
+git branch name 建立name的分支
+
+git branch查看分支
+
+git checkout 切换到指定分支
