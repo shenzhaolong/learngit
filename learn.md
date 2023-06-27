@@ -25,3 +25,7 @@ git branch name 建立name的分支
 git branch查看分支
 
 git checkout 切换到指定分支
+
+git branch -d name删除name的分支
+
+git branch -r查看远程分支
